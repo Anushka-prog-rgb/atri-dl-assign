@@ -15,7 +15,7 @@ notebooks/
 
 ## Setup
 ###1.Clone repo
-git clone https://github.com/yourusername/atri-dl-assign.git
+git clone https://github.com/Anushka-prog-rgb/atri-dl-assign.git
 cd atri-dl-assign
 
 ### Install dependencies
