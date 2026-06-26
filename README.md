@@ -51,3 +51,5 @@ No automatic differentiation libraries are used
 All matrix operations are implemented manually in Numpy
 Test data is strictly kept separated from training throughout.  
 
+report link
+https://wandb.ai/zda23m016-iit-madras-zanzibar/atri-fashion-mnist/reports/Learning-to-Dress-How-Gradient-Descent-Teaches-Machines-to-Recognize-Fashion--VmlldzoxNzM1MjQzNg
